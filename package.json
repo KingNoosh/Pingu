@@ -1,0 +1,14 @@
+{
+  "name": "pingu",
+  "version": "1.0.0",
+  "description": "Discord bot for Noot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anosh Malik (me@ano.sh)",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "discord.js": "^9.2.0"
+  }
+}
